@@ -94,5 +94,3 @@ LOG*
 CURRENT
 MANIFEST-*
 
-# Makefile configuration
-Makefile.config
